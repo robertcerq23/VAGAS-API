@@ -1,0 +1,17 @@
+{
+  "name": "api-aluno",
+  "version": "1.0.0",
+  "main": "idex.js",
+  "scripts": {
+    "start": "nodemon --exec node servidor.js"
+  },
+  "keywords": [],
+  "author": "Fernanda de Jesus, Robert Paixao",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "uuid": "^11.0.2"
+  }
+}
